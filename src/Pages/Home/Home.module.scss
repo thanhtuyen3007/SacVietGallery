@@ -1,0 +1,16 @@
+/* Animation */
+.image {
+  animation: pan 60s linear infinite alternate;
+}
+
+@keyframes pan {
+  0% {
+    transform: translateX(0);
+  }
+  50% {
+    transform: translateX(35%);
+  } /* turn back */
+  100% {
+    transform: translateX(0%);
+  } /* turn back */
+}

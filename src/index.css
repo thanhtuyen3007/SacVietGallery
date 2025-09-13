@@ -1,38 +1,28 @@
 @import url("https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap");
 @import "tailwindcss";
-@import './assets/styles/components.css';
+@import "./assets/styles/components.css";
 
 :root {
   font-family: "Open Sans", sans-serif;
   font-optical-sizing: auto;
   font-weight: 400;
   font-style: normal;
-  font-variation-settings: "wdth" 100;
-
   color-scheme: light dark;
-
   font-synthesis: none;
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
+
 @theme {
+  --*: initial;
   --spacing: 1px; /* Example spacing variable */
   --font-display: "Playfair Display", serif; /* font variable */
-  --animate-slideIn: slideIn 0.5s ease-in-out; /* animation variable */
-  @keyframes slideIn {
-    0% {
-      transform: translateX(-50%);
-    }
-    50% {
-      transform: translateX(0);
-    }
-    100% {
-      transform: translateX(50%);
-    }
-  }
-    /* Default (light mode) */
+
+
+
+  /* Default (light mode) */
   /* Background */
   --color-bg-primary: #ffffff;
 
@@ -50,7 +40,7 @@
   --color-gray-smoke: #e4c9b0;
   --color-gray-light: #a69b92;
 
-  --color-border-gray: #A2968D;
+  --color-border-gray: #a2968d;
 }
 /* Dark mode */
 @media (prefers-color-scheme: dark) {
@@ -60,8 +50,8 @@
     --color-text-brown: #c4a689;
     --color-btn-gold: #e6b85c;
     --color-btn-red: #d95f4e;
-   --color-gray-smoke: #5c4c3d;
-     --color-gray-light: #7d7670;
+    --color-gray-smoke: #5c4c3d;
+    --color-gray-light: #7d7670;
   }
 }
 
