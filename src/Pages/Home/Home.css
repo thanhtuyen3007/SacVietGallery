@@ -1,6 +1,8 @@
 /* Animation */
-.image {
-  animation: pan 60s linear infinite alternate;
+@media screen and (min-width: 1024px) {
+  .image {
+    animation: pan 60s linear infinite alternate;
+  }
 }
 
 @keyframes pan {

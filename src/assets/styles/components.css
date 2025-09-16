@@ -1,6 +1,6 @@
-.font-h1{
-    @apply w-fit font-display text-xl lg:text-4xl md:text-2xl text-t-dark font-bold uppercase;
+.font-h1 {
+  @apply font-display text-xl md:text-2xl lg:text-4xl text-t-dark font-bold uppercase;
 }
-.font-text{
-    @apply text-xs lg:text-base/30 md:text-sm text-t-dark font-normal; 
+.font-text {
+  @apply text-xs lg:text-base/30 md:text-sm text-t-dark font-normal;
 }

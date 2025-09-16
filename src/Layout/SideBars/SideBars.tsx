@@ -5,7 +5,6 @@ import clsx from "clsx";
 
 export const SideBars = () => {
   const [isOpen, setIsOpen] = useState(false);
-  console.log("isOpen", isOpen);
   return (
     <div
       className={clsx(
@@ -16,8 +15,7 @@ export const SideBars = () => {
       <div className="sideBar">
         <button
           onClick={() => setIsOpen(!isOpen)}
-          className="btn-sideBar hover:cursor-pointer mt-20 ml-20
-          focus:outline-none"
+          className="btn-sideBar hover:cursor-pointer mt-20 ml-20 focus:outline-none"
         >
           <img
             className=" w-45 h-45 lg:w-64 lg:h-64"
@@ -35,7 +33,7 @@ export const SideBars = () => {
         )}
         style={{ transitionProperty: "max-height, opacity" }}
       >
-        <MenuSideBar isOpen={isOpen} />
+        <MenuSideBar isOpen={isOpen} onClose={() => setIsOpen(false)} />
       </div>
     </div>
   );
