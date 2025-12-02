@@ -1,6 +1,9 @@
 .font-h1 {
-  @apply font-display text-xl md:text-2xl lg:text-4xl text-t-dark font-bold uppercase;
+  @apply font-display text-xl md:text-2xl lg:text-4xl text-t-brown font-bold uppercase;
 }
-.font-text {
-  @apply text-xs lg:text-base/30 md:text-sm text-t-dark font-normal;
+.font-subtext {
+  @apply text-xs lg:text-base/30 md:text-sm text-st-brown font-medium;
+}
+.font-link-collections {
+  @apply text-sm md:text-base text-t-gray font-bold pt-10 pr-10 pb-10 hover:text-t-brown;
 }

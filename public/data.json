@@ -1,0 +1,253 @@
+{
+  "collections": [
+    {
+      "id": "sacxua",
+      "name": "Sắc Xưa",
+      "urlImage": "https://res.cloudinary.com/djka3a0ah/image/upload/v1757993829/Thuc-Sinh-gap-Kieu_gm5upw.jpg",
+      "authorImg": "Thúc Sinh gặp Kiều",
+      "description": "Sắc Xưa reflects the rustic charm of Vietnamese traditional paintings, where colors and strokes evoke memory and spirit. The collection bridges past and present.",
+      "descriptionViet": "Sắc Xưa tái hiện vẻ đẹp mộc mạc của tranh truyền thống Việt Nam, nơi màu sắc và đường nét gợi ký ức, hồn quê. Bộ sưu tập là nhịp cầu nối giữa quá khứ và hiện tại.",
+      "link": "/collections/sac-xua",
+      "artworks": [
+        {
+          "id": "sx1",
+          "title": "Thúc Sinh gặp Kiều",
+          "author": "Unknown",
+          "shortDescription": "Một khoảnh khắc kinh điển trong Truyện Kiều.",
+          "imageUrl": "https://res.cloudinary.com/djka3a0ah/image/upload/v1757993829/Thuc-Sinh-gap-Kieu_gm5upw.jpg",
+          "link": "/collections/sac-xua/thuc-sinh-gap-kieu"
+        },
+        {
+          "id": "sx2",
+          "title": "Cảnh Đình Làng",
+          "author": "Nguyễn Phan Chánh",
+          "shortDescription": "Phản ánh nét sinh hoạt truyền thống vùng quê Việt.",
+          "imageUrl": "https://res.cloudinary.com/demo/image/upload/canh-dinh-lang.jpg",
+          "link": "/collections/sac-xua/canh-dinh-lang"
+        },
+        {
+          "id": "sx3",
+          "title": "Lễ Hội Đình",
+          "author": "Trần Văn Cẩn",
+          "shortDescription": "Không khí lễ hội rộn ràng qua màu sắc dân gian.",
+          "imageUrl": "https://res.cloudinary.com/demo/image/upload/le-hoi-dinh.jpg",
+          "link": "/collections/sac-xua/le-hoi-dinh"
+        },
+        {
+          "id": "sx4",
+          "title": "Thiếu Nữ Bên Sen",
+          "author": "Nguyễn Gia Trí",
+          "shortDescription": "Thiếu nữ Việt duyên dáng bên hồ sen.",
+          "imageUrl": "https://res.cloudinary.com/demo/image/upload/thieu-nu-ben-sen.jpg",
+          "link": "/collections/sac-xua/thieu-nu-ben-sen"
+        },
+        {
+          "id": "sx5",
+          "title": "Người Mẹ",
+          "author": "Tô Ngọc Vân",
+          "shortDescription": "Hình ảnh thiêng liêng về người mẹ Việt.",
+          "imageUrl": "https://res.cloudinary.com/demo/image/upload/nguoi-me.jpg",
+          "link": "/collections/sac-xua/nguoi-me"
+        },
+        {
+          "id": "sx6",
+          "title": "Mùa Gặt",
+          "author": "Lê Văn Đệ",
+          "shortDescription": "Khung cảnh lao động gặt lúa trù phú.",
+          "imageUrl": "https://res.cloudinary.com/demo/image/upload/mua-gat.jpg",
+          "link": "/collections/sac-xua/mua-gat"
+        },
+        {
+          "id": "sx7",
+          "title": "Đêm Trăng Quê",
+          "author": "Unknown",
+          "shortDescription": "Trăng sáng soi khắp làng quê yên bình.",
+          "imageUrl": "https://res.cloudinary.com/demo/image/upload/dem-trang-que.jpg",
+          "link": "/collections/sac-xua/dem-trang-que"
+        },
+        {
+          "id": "sx8",
+          "title": "Hát Quan Họ",
+          "author": "Unknown",
+          "shortDescription": "Văn hóa Quan Họ Bắc Ninh qua nét vẽ dân gian.",
+          "imageUrl": "https://res.cloudinary.com/demo/image/upload/hat-quan-ho.jpg",
+          "link": "/collections/sac-xua/hat-quan-ho"
+        },
+        {
+          "id": "sx9",
+          "title": "Chợ Quê",
+          "author": "Unknown",
+          "shortDescription": "Cảnh chợ dân dã mang hơi thở Việt.",
+          "imageUrl": "https://res.cloudinary.com/demo/image/upload/cho-que.jpg",
+          "link": "/collections/sac-xua/cho-que"
+        }
+      ]
+    },
+    {
+      "id": "sacmoi",
+      "name": "Sắc Mới",
+      "urlImage": "https://res.cloudinary.com/djka3a0ah/image/upload/v1757993750/gia-dinh-trong-vuon-Le-Pho_ubvnw8.webp",
+      "authorImg": "Gia đình trong vườn - Lê Phổ",
+      "description": "Ancient shades break open like the first light of dawn, casting Vietnam’s essence into a modern rhythm. Tradition never grows old — it simply changes its form.",
+      "descriptionViet": "Những gam màu xưa cũ vỡ ra như tia bình minh, soi rọi nét Việt trong nhịp sống mới. Truyền thống không già đi, chỉ thay đổi dáng hình.",
+      "link": "/collections/sac-moi",
+      "artworks": [
+        {
+          "id": "sm1",
+          "title": "Gia đình trong vườn",
+          "author": "Lê Phổ",
+          "shortDescription": "Một tác phẩm pha trộn truyền thống và hiện đại.",
+          "imageUrl": "https://res.cloudinary.com/djka3a0ah/image/upload/v1757993750/gia-dinh-trong-vuon-Le-Pho_ubvnw8.webp",
+          "link": "/collections/sac-moi/gia-dinh-trong-vuon"
+        },
+        {
+          "id": "sm2",
+          "title": "Sắc Màu Thành Thị",
+          "author": "Contemporary Artist",
+          "shortDescription": "Nhịp sống đô thị hiện đại qua lăng kính nghệ thuật.",
+          "imageUrl": "https://res.cloudinary.com/demo/image/upload/sac-mau-thanh-thi.jpg",
+          "link": "/collections/sac-moi/sac-mau-thanh-thi"
+        },
+        {
+          "id": "sm3",
+          "title": "Giai Điệu Việt",
+          "author": "Modern Painter",
+          "shortDescription": "Âm nhạc và sắc màu hòa quyện trong không gian thị giác.",
+          "imageUrl": "https://res.cloudinary.com/demo/image/upload/giai-dieu-viet.jpg",
+          "link": "/collections/sac-moi/giai-dieu-viet"
+        },
+        {
+          "id": "sm4",
+          "title": "Nhịp Thở Mới",
+          "author": "Modern Painter",
+          "shortDescription": "Hình khối phá cách tượng trưng cho sức sống mới.",
+          "imageUrl": "https://res.cloudinary.com/demo/image/upload/nhip-tho-moi.jpg",
+          "link": "/collections/sac-moi/nhip-tho-moi"
+        },
+        {
+          "id": "sm5",
+          "title": "Hòa Điệu Ánh Sáng",
+          "author": "Modern Painter",
+          "shortDescription": "Gam màu rực rỡ tựa pháo hoa.",
+          "imageUrl": "https://res.cloudinary.com/demo/image/upload/hoa-dieu-anh-sang.jpg",
+          "link": "/collections/sac-moi/hoa-dieu-anh-sang"
+        },
+        {
+          "id": "sm6",
+          "title": "Thành Phố Ban Đêm",
+          "author": "Contemporary Artist",
+          "shortDescription": "Ánh đèn lung linh phản chiếu hơi thở thành thị.",
+          "imageUrl": "https://res.cloudinary.com/demo/image/upload/thanh-pho-ban-dem.jpg",
+          "link": "/collections/sac-moi/thanh-pho-ban-dem"
+        },
+        {
+          "id": "sm7",
+          "title": "Nét Việt Đương Đại",
+          "author": "Contemporary Artist",
+          "shortDescription": "Kết hợp truyền thống trong phong cách mới.",
+          "imageUrl": "https://res.cloudinary.com/demo/image/upload/net-viet-duong-dai.jpg",
+          "link": "/collections/sac-moi/net-viet-duong-dai"
+        },
+        {
+          "id": "sm8",
+          "title": "Tự Do",
+          "author": "Modern Painter",
+          "shortDescription": "Bố cục mở rộng tượng trưng cho tinh thần phóng khoáng.",
+          "imageUrl": "https://res.cloudinary.com/demo/image/upload/tu-do.jpg",
+          "link": "/collections/sac-moi/tu-do"
+        },
+        {
+          "id": "sm9",
+          "title": "Bình Minh Trên Cao",
+          "author": "Modern Painter",
+          "shortDescription": "Khoảnh khắc thành phố thức dậy với ánh sáng rực rỡ.",
+          "imageUrl": "https://res.cloudinary.com/demo/image/upload/binh-minh-tren-cao.jpg",
+          "link": "/collections/sac-moi/binh-minh-tren-cao"
+        }
+      ]
+    },
+    {
+      "id": "hoasac",
+      "name": "Hoà Sắc",
+      "urlImage": "https://res.cloudinary.com/djka3a0ah/image/upload/v1757993715/Mua-nuoc-noi-Chu-Nhat-Quang_a1vise.webp",
+      "authorImg": "Mùa nước nổi - Chu Nhật Quang",
+      "description": "Where hues and spirit intertwine, all distances fade away — leaving only one shared tale called Vietnam.",
+      "descriptionViet": "Ở nơi sắc và hồn giao hòa, mọi khoảng cách tan biến. Chỉ còn câu chuyện chung mang tên Việt Nam.",
+      "link": "/collections/hoan-sac",
+      "artworks": [
+        {
+          "id": "hs1",
+          "title": "Mùa nước nổi",
+          "author": "Chu Nhật Quang",
+          "shortDescription": "Khung cảnh sông nước miền Tây.",
+          "imageUrl": "https://res.cloudinary.com/djka3a0ah/image/upload/v1757993715/Mua-nuoc-noi-Chu-Nhat-Quang_a1vise.webp",
+          "link": "/collections/hoa-sac/mua-nuoc-noi"
+        },
+        {
+          "id": "hs2",
+          "title": "Sông Quê",
+          "author": "Chu Nhật Quang",
+          "shortDescription": "Con thuyền nhỏ trôi trên sông quê yên ả.",
+          "imageUrl": "https://res.cloudinary.com/demo/image/upload/song-que.jpg",
+          "link": "/collections/hoa-sac/song-que"
+        },
+        {
+          "id": "hs3",
+          "title": "Hoàng Hôn Biển",
+          "author": "Contemporary Artist",
+          "shortDescription": "Màu cam đỏ rực chiếu sáng mặt biển rộng lớn.",
+          "imageUrl": "https://res.cloudinary.com/demo/image/upload/hoang-hon-bien.jpg",
+          "link": "/collections/hoa-sac/hoang-hon-bien"
+        },
+        {
+          "id": "hs4",
+          "title": "Đồi Trà",
+          "author": "Unknown",
+          "shortDescription": "Đồi chè xanh trải dài bất tận.",
+          "imageUrl": "https://res.cloudinary.com/demo/image/upload/doi-tra.jpg",
+          "link": "/collections/hoa-sac/doi-tra"
+        },
+        {
+          "id": "hs5",
+          "title": "Phong Cảnh Miền Núi",
+          "author": "Unknown",
+          "shortDescription": "Sắc núi non trùng điệp hoà cùng mây trời.",
+          "imageUrl": "https://res.cloudinary.com/demo/image/upload/phong-canh-mien-nui.jpg",
+          "link": "/collections/hoa-sac/phong-canh-mien-nui"
+        },
+        {
+          "id": "hs6",
+          "title": "Hoa Đào Xuân",
+          "author": "Unknown",
+          "shortDescription": "Những cánh đào hồng báo hiệu mùa xuân mới.",
+          "imageUrl": "https://res.cloudinary.com/demo/image/upload/hoa-dao-xuan.jpg",
+          "link": "/collections/hoa-sac/hoa-dao-xuan"
+        },
+        {
+          "id": "hs7",
+          "title": "Mùa Thu Hà Nội",
+          "author": "Unknown",
+          "shortDescription": "Lá vàng rơi trên phố cổ Hà Nội.",
+          "imageUrl": "https://res.cloudinary.com/demo/image/upload/mua-thu-ha-noi.jpg",
+          "link": "/collections/hoa-sac/mua-thu-ha-noi"
+        },
+        {
+          "id": "hs8",
+          "title": "Bờ Biển Dài",
+          "author": "Unknown",
+          "shortDescription": "Sóng biển vỗ dạt dào trong ánh nắng vàng.",
+          "imageUrl": "https://res.cloudinary.com/demo/image/upload/bo-bien-dai.jpg",
+          "link": "/collections/hoa-sac/bo-bien-dai"
+        },
+        {
+          "id": "hs9",
+          "title": "Cầu Tre",
+          "author": "Unknown",
+          "shortDescription": "Cây cầu tre nhỏ nối đôi bờ ký ức.",
+          "imageUrl": "https://res.cloudinary.com/demo/image/upload/cau-tre.jpg",
+          "link": "/collections/hoa-sac/cau-tre"
+        }
+      ]
+    }
+  ]
+}

@@ -8,8 +8,8 @@ export const SideBars = () => {
   return (
     <div
       className={clsx(
-        "container-sideBars w-full fixed top-0 left-0 z-50",
-        isOpen && "bg-bg-primary"
+        "container-sideBars w-full fixed top-0 left-0 z-[90]",
+        isOpen && "bg-bg-secondary shadow-md"
       )}
     >
       <div className="sideBar">
@@ -24,14 +24,11 @@ export const SideBars = () => {
           />
         </button>
       </div>
-       <div
+      <div
         className={clsx(
-          "overflow-hidden transition-all duration-1200 ease-in-out origin-top",
-          isOpen
-            ? "max-h-[100vh] opacity-100"
-            : "max-h-0 opacity-0"
+          "overflow-hidden transition-all duration-500 ease-in-out",
+          isOpen ? "opacity-100" : "opacity-0"
         )}
-        style={{ transitionProperty: "max-height, opacity" }}
       >
         <MenuSideBar isOpen={isOpen} onClose={() => setIsOpen(false)} />
       </div>

@@ -21,7 +21,7 @@
   --spacing: 1px; /* Example spacing variable */
   --font-display: "Playfair Display", serif; /* font variable */
   /* Font weights */
-    --font-weight-thin: 100;
+  --font-weight-thin: 100;
   --font-weight-extralight: 200;
   --font-weight-light: 300;
   --font-weight-normal: 400;
@@ -31,19 +31,19 @@
   --font-weight-extrabold: 800;
   --font-weight-black: 900;
   /* Font sizes */
-   --text-xs: 0.75rem;   /* 12px */
-  --text-sm: 0.875rem;  /* 14px */
-  --text-base: 1rem;    /* 16px */
-  --text-lg: 1.125rem;  /* 18px */
-  --text-xl: 1.25rem;   /* 20px */
-  --text-2xl: 1.5rem;   /* 24px */
+  --text-xs: 0.75rem; /* 12px */
+  --text-sm: 0.875rem; /* 14px */
+  --text-base: 1rem; /* 16px */
+  --text-lg: 1.125rem; /* 18px */
+  --text-xl: 1.25rem; /* 20px */
+  --text-2xl: 1.5rem; /* 24px */
   --text-3xl: 1.875rem; /* 30px */
-  --text-4xl: 2.25rem;  /* 36px */
-  --text-5xl: 3rem;     /* 48px */
-  --text-6xl: 3.75rem;  /* 60px */
-  --text-7xl: 4.5rem;   /* 72px */
-  --text-8xl: 6rem;     /* 96px */
-  --text-9xl: 8rem;     /* 128px */
+  --text-4xl: 2.25rem; /* 36px */
+  --text-5xl: 3rem; /* 48px */
+  --text-6xl: 3.75rem; /* 60px */
+  --text-7xl: 4.5rem; /* 72px */
+  --text-8xl: 6rem; /* 96px */
+  --text-9xl: 8rem; /* 128px */
   /* Breakpoints */
   --breakpoint-sm: 640px;
   --breakpoint-md: 768px;
@@ -53,12 +53,14 @@
 
   /* Default (light mode) */
   /* Background */
-  --color-bg-primary: #ffffff;
+  --color-bg-primary: #F5F3EB;
+  --color-bg-secondary: #FDFCF8;
 
   /* Text */
   --color-t-dark: #3a3a3a;
-  --color-t-brown: #a68061;
-  --color-t-gray: #737373;
+  --color-t-brown: #4c3b31;
+  --color-st-brown: #6B5B4C;
+  --color-t-gray: #80736b;
   --color-t-hover-gray: #737373;
 
   /* Buttons */
@@ -96,6 +98,19 @@ body {
 }
 img {
   max-width: 100%;
-  height: auto;
   display: block;
+}
+.swiper {
+  width: 100% !important;
+  height: 100vh !important;
+}
+
+.swiper-wrapper {
+  width: 100% !important;
+  height: 100% !important;
+}
+
+.swiper-slide {
+  width: 100% !important;
+  height: 100% !important;
 }

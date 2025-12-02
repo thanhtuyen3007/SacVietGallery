@@ -2,9 +2,11 @@ import { Route, BrowserRouter as Router, Routes } from "react-router";
 import { DefaultLayout } from "~/Layout/DefaultLayout/DefaultLayout";
 import { Home } from "~/Pages/Home/Home";
 import { Collections } from "~/Pages/Collections/Collections";
+import { Collection } from "~/Pages/Collection/Collection";
 const publicRouters = [
   { path: "*", component: Home },
   { path: "/collections", component: Collections },
+  { path: "/collection", component: Collection },
 ];
 function App() {
   return (

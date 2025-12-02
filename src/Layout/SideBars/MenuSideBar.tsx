@@ -17,7 +17,7 @@ export const MenuSideBar = ({ isOpen, onClose }: MenuSideBarProps) => {
     isOpen && (
       <div
         className={clsx(
-          "menu-sideBar h-screen bg-bg-primary lg:flex"
+          "menu-sideBar h-screen bg-bg-secondary lg:flex"
         )}
       >
         <div className="list-item-menu sm:flex-1 ml-50 lg:ml-100">
